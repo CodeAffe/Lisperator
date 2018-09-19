@@ -1,0 +1,7 @@
+[package]
+name = "lisperator-rust"
+version = "0.1.0"
+authors = ["David Postlethwaite <david.d@datadev.ca>"]
+
+[dependencies]
+regex = "1"
